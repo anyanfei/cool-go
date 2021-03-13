@@ -5,9 +5,10 @@
   丫的就是一社畜，哥老倌儿，你不要在我面前说源码，你把k8s全部读了，docker也读了，你就跑来问我懂不懂，我不要听，不要听...
 
 <p align="center">
-<img src="https://cdn.xinchao.com/goods/202103/31acd927e5e01087764182ed7241515a201x201.jpg" 
+<img src="wbt.jpg" 
     width="240" height="240" border="0" alt="GJSON">
 </p>
+
 
   我就是个码农，需要的是咋个用会你说的那些东西，需要知道那是个啥子玩意儿，你开口就是源码，我用都没用过听你讲啥子玩意儿哟~
 
@@ -16,9 +17,10 @@
 酷go到底得不得行嘛，那肯定阔以满足各位码农（社畜）嘞需求噻，这里边儿莫得口水话，撸起裤子就是...噢不...撸起袖子直接干代码的粗人，这里边儿莫得那么多原理，喜欢看原理的都在最后放了github开源源码，爱看不看~
 
 <p align="center">
-<img src="https://cdn.xinchao.com/goods/202103/07ced83e32f761f0bf4ebd348ca9916e400x405.jpg" 
+<img src="wbk.jpg" 
     width="240" height="240" border="0" alt="GJSON">
 </p>
+
 
 酷go里边儿你可以遇到很多你喜欢的偶像，beego创始人，BAT的大佬等。
 
